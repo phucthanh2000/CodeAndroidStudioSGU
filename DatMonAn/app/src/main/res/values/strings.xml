@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Đặt Món</string>
+    <string name="banh_trang">Bánh Tráng</string>
+    <string name="com_suon">Cơm Sườn</string>
+    <string name="com_ga">Cơm Gà</string>
+    <string name="com_xa_xiu">Cơm Xá Xíu</string>
+    <string name="com_heo_quay_gion">Cơm Heo Quay Giòn</string>
+    <string name="com_thit_kho_tau">Cơm Thịt Kho Tàu</string>
+    <string name="com_bo_xao">Cơm Bò Xào</string>
+    <string name="com_chien_hai_san">Cơm Chiên Hải Sản</string>
+    <string name="com_ca_kho_tieu">Cơm Cá Kho Tiêu</string>
+</resources>
